@@ -4,7 +4,7 @@
   <img alt="Globalboost" src="bsty-logo.png" width="300" />
 
   <p>Library with support for de/serialization, parsing and executing on data-structures
-    and network messages related to Bitcoin.
+    and network messages related to GlobalBoost-Y.
   </p>
 
   <p>
