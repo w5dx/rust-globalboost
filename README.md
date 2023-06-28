@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Rust GlobalBoost</h1>
 
-  <img alt="Globalboost" src="https://btc.cryptoid.info/logo/bsty.png)" width="300" />
+  <img alt="Globalboost" src="bsty-logo.png" width="300" />
 
   <p>Library with support for de/serialization, parsing and executing on data-structures
     and network messages related to Bitcoin.
